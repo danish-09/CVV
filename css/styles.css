@@ -1,0 +1,167 @@
+body{
+    margin: 0 auto 0 auto;
+    font-size: 2em;
+    font-family: merriweather,sacramento,'Times New Roman', Times, serif;
+    
+}
+
+.top_text{
+    font-size:3em;
+    font-family: sacramento,'Times New Roman', Times, serifS
+}
+
+.top_texttwo{
+    font-size: 2em;
+    font-family: sacramento,'Times New Roman', Times, serif
+}
+
+
+.upper_container{
+    background-color: #E9F8F9;
+    font-size: 1em;
+}
+
+.cloud1{
+   position: relative;
+   left: 70%;
+}
+
+.detail{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.cloud2{
+    position: relative;
+    left:20%;
+    margin-bottom: 20%;
+}
+
+.mountain{
+    position: relative;
+    left:20%;
+}
+
+.middle_container{
+   
+    text-align: center;
+    color:darkslategrey
+}
+
+.danish_photo{
+    width: 20%;
+    margin-top: 10%;
+    border-radius: 100%;
+}
+
+
+hr{
+    border-style: dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width:10%;
+    color: black;
+    margin:10% auto 10%;
+    border-top-width: 3px;
+}
+
+
+.HTML{
+    position: relative;
+    margin-left: 15%;
+    
+
+    margin-right:5%;
+    width: 7%;
+    
+    display:block;
+    margin-bottom:5%;
+    float:left;
+}
+
+.html_line{
+    color: red;
+    margin-left: 0px;
+    position: relative;
+    right:35%;
+    margin-bottom: 5%;
+    
+}
+
+.html_text{
+    position:relative;
+    right:15%;
+    margin-left: 15%;
+    margin-right: 5%;
+
+}
+
+.CSS{
+    width: 7%;
+    margin-top: 10%;
+    
+    margin-right: 15%;
+   
+    margin-left: 5%;
+    float: right;
+}
+
+.css_line{
+    
+    color: red;
+    position: relative;
+    left:35%;
+    top:120px;
+    margin-top:4%;
+ 
+}
+
+.css_text{
+    margin-top: 13%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+
+
+
+.bottom_container{
+    text-align: center;
+
+    background-color:#E9F8F9;
+    
+    padding-bottom: 0%;
+
+}
+
+.instagram{
+    text-decoration: none;
+    color: black;
+    font-size: 0.8em;
+    
+
+
+}
+
+.linkedin{
+    color: black;
+    margin-right: 1%;
+    text-decoration: none;
+    font-size: 0.8em ;
+
+}
+
+.copyright{
+    color: grey;
+    margin-bottom: 0;
+    font-size: .6em;
+
+    
+
+}
+
+a:hover{
+    color: darkgrey;
+
+}
